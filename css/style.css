@@ -3,6 +3,10 @@ div {
     width: 20%;
 }
 
+table {
+    font-size: 20px;
+}
+
 td {
     width: 30px;
     border: 1px solid;
@@ -32,6 +36,8 @@ tr:nth-child(3n) td {
 /* set up css for input tags, so that they match width of normal cells */
 input {
     width: inherit;
+    background-color: inherit;
+    all: inherit;
 }
 
 
