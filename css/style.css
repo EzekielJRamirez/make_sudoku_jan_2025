@@ -38,6 +38,7 @@ input {
     width: inherit;
     background-color: inherit;
     all: inherit;
+    border: none;
 }
 
 
